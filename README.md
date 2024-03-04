@@ -9,3 +9,4 @@ Por ejemplo, si N es igual a 5, entonces queremos calcular la suma de los primer
 Este problema se puede abordar de diferentes maneras, pero la solución planteada utiliza la programación recursiva. En la programación recursiva, una función se llama a sí misma para resolver un problema más pequeño, hasta alcanzar un caso base que puede ser resuelto directamente.
 
 # Video
+https://youtu.be/w4MMJnPiEzA
